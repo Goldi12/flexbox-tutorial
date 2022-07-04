@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    text-align: center;
+}
+
+.line{
+    width: 150px;
+    height: 4px;
+    background-color: chartreuse;
+    margin: 4px auto;
+};
+
+
+.row{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.col{
+  
+}
+
+
+
+
+
+
+
+

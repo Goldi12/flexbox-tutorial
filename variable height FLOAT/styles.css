@@ -1,0 +1,15 @@
+.container {
+    font-size: 1.5rem;
+}
+
+.item1{
+    background-color: firebrick;
+    float: left;
+    width: 30%;
+}
+
+.item2{
+    background-color: forestgreen;
+    float: right;
+    width: 70%;
+}
